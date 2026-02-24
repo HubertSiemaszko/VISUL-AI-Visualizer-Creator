@@ -1,0 +1,10 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+media/
+outputs/
+uploads/
+
+timeline_data.json
