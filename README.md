@@ -55,3 +55,13 @@ Beyond automation, VISUL features a **custom-built, fully interactive React Time
 VISUL is currently in active development. My main focus right now is heavily refining and expanding the custom **Timeline Editor** to ensure a smooth, bug-free, and professional-grade editing experience directly in the browser. 
 
 *Please note: The application is currently being developed locally and is **not yet hosted online**.*
+
+<img width="2141" height="1701" alt="image" src="https://github.com/user-attachments/assets/fb7da1f2-bbcc-4fbd-98d1-2426e663e6c2" />
+<img width="2186" height="1030" alt="image" src="https://github.com/user-attachments/assets/fdaeb059-2096-497b-b773-e8ea8009fdb8" />
+<img width="2077" height="1672" alt="image" src="https://github.com/user-attachments/assets/b4199a21-4bea-409e-845f-a6a35edd900a" />
+<img width="1992" height="1358" alt="image" src="https://github.com/user-attachments/assets/7dfc14b7-3fc2-4c9c-bf4e-3d320b885bd4" />
+<img width="3184" height="1095" alt="image" src="https://github.com/user-attachments/assets/a14a62db-333a-42d4-8e73-c330cf8e38b1" />
+<img width="1731" height="1015" alt="image" src="https://github.com/user-attachments/assets/a0fa61f8-e3f5-40b8-9371-77f591b0a414" />
+
+
+
